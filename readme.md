@@ -1,22 +1,15 @@
-## 🛠️ Tech Stack
+## Skills 🛠️
 
-### Languages & Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=
+[![My Skills](https://skillicons.dev/icons?i=
+cpp,c,ocaml,
 html,css,js,ts,
 react,vue,svelte,nextjs,
 nodejs,deno,
-python,java,c,cpp,
-rust,go,ocaml,
-php,ruby,
-kotlin,swift,
-dart,scala,
-bash,powershell,
-graphql,sql,
-mysql,postgres,
-mongodb,redis,
+java,py,go,rust,
+php,ruby,scala,kotlin,swift,dart,
+bash,linux,git,
+sql,mysql,postgres,mongodb,redis,
 docker,kubernetes,
-git,linux
-" />
-</p>
+eclipse,vscode,
+figma,ps,ae,blender,spline
+&theme=dark)](https://skillicons.dev)
